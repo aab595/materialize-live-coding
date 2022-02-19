@@ -12,3 +12,9 @@ $('.carousel.carousel-slider').carousel({
   fullWidth: true,
   indicators: true
 });
+
+// Modals
+$(document).ready(function(){
+  $('.modal').modal();
+});
+    
